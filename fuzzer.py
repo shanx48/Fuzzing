@@ -1,7 +1,7 @@
 import socket, time, sys
 
-ip = "10.10.203.12"
-port = 1337
+ip = input("Enter IP: ")
+port = input("Enter Port No: ")
 timeout = 5
 
 buffer = []
