@@ -1,5 +1,6 @@
-import socket, time, sys
-
+import socket
+import time
+import sys
 ip = input("Enter IP: ")
 port = input("Enter Port No: ")
 timeout = 5
